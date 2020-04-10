@@ -1,3 +1,6 @@
+# Substitution-Permutation Networks
+# Homework 6
+
 This project implements a simple substitution-permutation network
 encryption algorithm calles scrypt. The algorithm is designed to be
 simplistic, so do not use it for anything serious. The purpose of this
