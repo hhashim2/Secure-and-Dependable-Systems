@@ -1,0 +1,9 @@
+{
+	"online-references": [
+		{
+			"url": "https://medium.com/better-programming/best-practices-for-generating-secure-passwords-and-tokens-in-python-ebb91d459267",
+			"contribution": "Function to generate a random sequence of hexadecimals to pass through to SHA256",
+			"file": "script.py"
+		},
+
+}
